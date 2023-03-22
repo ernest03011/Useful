@@ -1,0 +1,17 @@
+# Useful Links
+
+1. [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+2. [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers#ui-graphics)
+3. [All HTML tags](https://allthetags.com/)
+4. [A general cheatsheet for devs](https://devhints.io/)
+5. [Shortcodes](https://shortcode.dev/)
+6. [Short code snippets](https://www.30secondsofcode.org/)
+7. [Learning git branching](https://learngitbranching.js.org/)
+8. [Symbols](https://symbl.cc/en/)
+9. [Learning CSS grid](https://cssgridgarden.com/)
+10. [Favicon generator](https://favicon.io/favicon-converter/)
+11. [Layout Grid Examples](https://gridbyexample.com/)
+12. [Writing on Github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+13. [CSS reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+14. [Emmet Syntax](https://docs.emmet.io/abbreviations/syntax/)
+15. [Snippet Generator](https://snippet-generator.app/)
