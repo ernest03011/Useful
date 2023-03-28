@@ -15,3 +15,5 @@
 13. [CSS reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 14. [Emmet Syntax](https://docs.emmet.io/abbreviations/syntax/)
 15. [Snippet Generator](https://snippet-generator.app/)
+16. [Stock images](https://unsplash.com/)
+17. [Placeholder images](https://picsum.photos/)
