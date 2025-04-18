@@ -1,4 +1,4 @@
-# Useful Links
+# Useful Links (for devs)
 
 1. [Naming cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
 2. [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers#ui-graphics)
@@ -17,3 +17,10 @@
 15. [Snippet Generator](https://snippet-generator.app/)
 16. [Stock images](https://unsplash.com/)
 17. [Placeholder images](https://picsum.photos/)
+18. [Roadmaps for learning multiple languages, developer roles, etc](https://roadmap.sh/)
+19. [Online Pomodoro Tool](https://pomofocus.io/)
+20. [Typing tool](https://www.typing.com/)
+21. [Git Book](https://git-scm.com/book/en/v2)
+22. [Free Hosting for deploying websites](https://www.netlify.com/)
+23. [Learning Web Development - From Foundation to Job Ready ](https://www.theodinproject.com/)
+
