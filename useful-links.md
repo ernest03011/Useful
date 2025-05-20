@@ -23,4 +23,6 @@
 21. [Git Book](https://git-scm.com/book/en/v2)
 22. [Free Hosting for deploying websites](https://www.netlify.com/)
 23. [Learning Web Development - From Foundation to Job Ready ](https://www.theodinproject.com/)
+24. [Atomic Design Methodology](https://atomicdesign.bradfrost.com/chapter-2/)
+25. [Atomic Design Principles & Methodology 101](https://xd.adobe.com/ideas/process/ui-design/atomic-design-principles-methodology-101/)
 
