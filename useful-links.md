@@ -25,4 +25,4 @@
 23. [Learning Web Development - From Foundation to Job Ready ](https://www.theodinproject.com/)
 24. [Atomic Design Methodology](https://atomicdesign.bradfrost.com/chapter-2/)
 25. [Atomic Design Principles & Methodology 101](https://xd.adobe.com/ideas/process/ui-design/atomic-design-principles-methodology-101/)
-
+26. [Open Graph - SEO](https://seosetups.com/blog/open-graph/)
