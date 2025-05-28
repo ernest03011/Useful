@@ -26,3 +26,6 @@
 24. [Atomic Design Methodology](https://atomicdesign.bradfrost.com/chapter-2/)
 25. [Atomic Design Principles & Methodology 101](https://xd.adobe.com/ideas/process/ui-design/atomic-design-principles-methodology-101/)
 26. [Open Graph - SEO](https://seosetups.com/blog/open-graph/)
+27. [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+28. [LightHouse](https://developer.chrome.com/docs/lighthouse/overview/)
+29. [Javascript Tutorial](https://javascript.info/)
