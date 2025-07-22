@@ -32,6 +32,11 @@
 30. [Free Illustration](https://www.manypixels.co/)
 31. [Waves illustration](https://getwaves.io/)
 
+### Javascript
+
+- [Javascript Tutorial - Website](https://javascript.info/)
+- [Javascript Book - Eloquent](https://eloquentjavascript.net/)
+
 ### Design UI / UX - INSPIRATION
 
 - [Dribble](https://dribbble.com/)
@@ -42,6 +47,9 @@
 - [Collect UI](https://collectui.com/)
 - [UI Design Daily](https://www.uidesigndaily.com/)
 - [Realtime Colors](https://www.realtimecolors.com/)
+- [Relume](https://www.relume.io/)
+- [Behance](https://www.behance.net/)
+- [Pinterest](https://www.pinterest.com/)
 
 
 ### Icons
