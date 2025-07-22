@@ -29,6 +29,6 @@
 27. [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
 28. [LightHouse](https://developer.chrome.com/docs/lighthouse/overview/)
 29. [Javascript Tutorial](https://javascript.info/)
-30. [Free Ilustration](https://www.manypixels.co/)
-31. [Waves ilustration](https://getwaves.io/)
+30. [Free Illustration](https://www.manypixels.co/)
+31. [Waves illustration](https://getwaves.io/)
 
