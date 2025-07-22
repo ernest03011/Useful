@@ -32,3 +32,26 @@
 30. [Free Illustration](https://www.manypixels.co/)
 31. [Waves illustration](https://getwaves.io/)
 
+### Design UI / UX - INSPIRATION
+
+- [Dribble](https://dribbble.com/)
+- [Godly Website](https://godly.website/)
+- [Mobbin](https://mobbin.com/)
+- [Awwards](https://www.awwwards.com/)
+- [LandBook](https://land-book.com/)
+- [Collect UI](https://collectui.com/)
+- [UI Design Daily](https://www.uidesigndaily.com/)
+- [Realtime Colors](https://www.realtimecolors.com/)
+
+
+### Icons
+
+- [Icon Finder](https://www.iconfinder.com/)
+- [Astro Icons](https://www.astroicon.dev/)
+- [Tabler Icons](https://tabler.io/icons)
+- [Font Awesome Icons](https://fontawesome.com/)
+
+### General
+- [Image to Text](https://www.imagetotext.info/)
+- [Generate Types - Typescript](https://app.quicktype.io/)
+
